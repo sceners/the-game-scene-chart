@@ -1,2 +1,4 @@
-# the-game-scene-chart
-The Game Scene Chart for Windows, 2012.
+# The Game Scene Chart
+#### Written in 2012 for Windows.
+
+[Original package](https://defacto2.net/f/b62aabf)
