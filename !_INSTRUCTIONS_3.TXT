@@ -1,0 +1,32 @@
+And now you are ready to make the final executable version of the charts, this is simple too.
+
+
+You have your chosen music, please rename them to;
+
+music1.xm
+music2.xm
+music3.xm
+music4.xm
+
+and put them inside this directory, they will be automatically included.
+
+The mag only plays tracker songs, I will not be changing this to play sids right now to save you
+hassle. The other format I am considering is Farbrausch v2, they will come in a future
+version.
+
+You MUST have 20 valid include files so if you have not edited and converted your pages yet then
+don't try and compile it, it won't work ;-)
+
+You will want to open "configuration.txt" now.
+
+Change the issue number, type some scroll about the songs and select which pages are active
+inside the mag and the title of the pages in the menu with this file.
+
+When you are done, save the file and double click "COMPILE-CHART.bat"
+
+And that will be it, job done. After some time the mag will compile its self into a single exe :)
+Please be aware that it may take several minutes to compile!
+
+
+I look forward to seeing it used bro.
+I worked like crazy to get it all finished and simple for you to use.

@@ -1,0 +1,70 @@
+
+
+
+
+                            Improving On The Engine.
+                                 By Widowmaker.
+
+
+After the last issue of the charts I thought that I would relax for a while
+but I am a sucker for punishment maybe ;-) Or perhaps not a sucker for
+punishment but I could not help noticing some things that I wanted to
+improve to make the charts interface better to use for everyone.
+
+
+I knew that I had rushed the bootblock style intro and that the charts
+deserve a much more fitting intro so I had to improve on that, that was the
+first thing to get changed and hopefully this one fits better, for now the
+Sid songs are hard coded into it but I will be changing this by the time
+that the next issue is released so that the songs can be changed more
+easily, but for now enjoy those songs by Rob Hubbard. I would like to say
+thank you to Stormbringer for his Tinysid replay routine which I used.
+
+
+Some tools in the content management system have been upgraded, hopefully
+this will mean that the editor of the charts can colour and format the
+articles more easily to make them all more pleasant for you to read.
+
+
+The biggest major change I guess is the inclusion of two skins.
+I was not really happy with the skin that was in the last one, we went with
+it just because we never had a better one at the time, now we have two.
+The grunge skin was put together from graphics out of W.O.W and the other
+one called Carbon was drawn by N.A.T.O of The Anti Nowhere League, thanks
+for that. Press F1 and F2 to switch skins.
+
+
+These changes have happened because you guys have asked for them, please
+do keep on passing your feedback over to the editor of the charts. I hope
+to keep on adding nice things to this chart engine and the editor is totally
+dedicated to making it interesting to read.
+
+
+The other thing that is of course now added into this engine is the ability
+to have articles. A lot of people have asked for more interviews and
+articles so please consider this..
+
+
+Back in the old days there were a lot of magazines like Stolen Data, The
+Eurochart, and many more. They were really very necessary to keep the scene
+in contact. With the rise of the internet, maybe the need for these mags
+was made less by the many forums, scene portals and IM programs.
+
+
+Arguably this is a reason why only a few mags have survived. The warez
+scene can still benefit from a mag/chart like this, it is a private way
+that people can air their views and check how they are doing against the
+competition.
+
+
+It needs your feedback and articles to flourish. We will happily protect
+your identity, please provide some material and we will keep on adding
+improvements to the engine and producing new issues... Believe it or not
+there are already things on the to do list for the next version of the
+charts!!
+
+Thanks!
+
+
+
+<END>

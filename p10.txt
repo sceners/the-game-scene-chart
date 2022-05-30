@@ -1,0 +1,119 @@
+
+
+   ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл
+   л                                                                         л
+   л ллллл ллллл ллллл ллллл лллл  л   л ллллл ллллл ллллл ллллл ллллл ллллл л
+   л   л   л   л л       л   л  л  л   л л       л     л   л   л л   л л     л
+   л   л   л   л ллллл   л   ллллл л   л л       л     л   л   л л   л ллллл л
+   л   л   л   л     л   л   л   л л   л л       л     л   л   л л   л     л л
+   л   л   л   л     л   л   л   л л   л л       л     л   л   л л   л     л л
+   л ллллл л   л ллллл   л   л   л ллллл ллллл   л   ллллл ллллл л   л ллллл л
+   л                                                                         л
+   ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл
+
+
+
+                    GUIDELINES ON HOW TO USE THIS MAGAZINE.
+
+
+
+
+If you are reading this then I guess that you have never used this new chart
+engine before, here are some guidelines of how everything works, it's quite
+straight-forward so you shouldn't have any problems.
+
+
+ 
+                                    BUTTONS:
+
+
+The main buttons are located to the left and the right of the center menu.
+You may click any of them as long as they are not already selected.
+
+    QUIT - Click here or press Escape to exit this fine chart.
+
+    CHARTS - Click here to select the charts menu.
+
+    ARTICLES - Click here to select the articles menu.
+
+    MUTE - Click here to stop the current song and again to restart it.
+
+    RULES - Click here to display the rules for scoring points in the charts.
+
+    HELP - Click here to display the page you are looking at.
+
+    MUSIC 1, MUSIC 2, MUSIC 3, MUSIC 4 - Click to play different tunes.
+
+
+
+In the middle you will see all the articles, as long as the page is turned on
+and is not coloured red then you can click any of them to change the article
+you are currently viewing.
+
+
+
+                                     SKINS:
+
+
+This chart engine now has a choice of two different skins, you can choose
+between them at any time by pressing F1 and F2.
+
+
+
+                                   SCROLLING:
+
+
+On some of the pageses, there can be less than 33 lines of text, in this case
+you will not be able to scroll the page, however, if there is more text in a
+page then you can scroll down it to read it with several methods, here's how
+to do it.
+
+    ARROW KEYS - Up and Down arrow keys scroll the page up and down.
+
+    MOUSE WHEEL - Roll it forward and back to scroll the page.
+
+    PROGRESS BAR - Click and drag up and down to scroll the page.
+
+    PAGE UP / PAGE DOWN - Advance and Go back a page at a time.
+
+    HOME / END - Jump to the beginning or the end of a page.
+                                                                
+
+
+                                EMPTY BUTTONS:
+
+
+Quite often you will notice some empty spaces in the central menu. This is
+normal and it is because the pages may be turned off and on by the editor of
+the charts, if any are turned off it just means that he didn't have enough
+pages to fill all the charts in this issue.
+
+
+
+                                    MUSIC:
+
+
+There is a spectrum analyzer for your enjoyment under the scroll, please do
+read this scroll to find out some facts about the songs you are listening to
+because the composers of these excellent songs deserve it.
+
+
+
+                              SUGGESTIONS+MATERIAL:
+
+
+Please send any suggestions for improvements to the editor if you know how to
+contact him, or even to the coder of the charts.. If you don't know who we
+are, use the usual channels, we want to keep improving the experience for 
+you.
+
+Lots of you have asked for more magazine-like content, we have now given you
+this option with the new chart engine, content does not write its self though
+and we really need your articles, interviews, comments and suggestions.
+
+Please do send them all on to us and we will consider them for publication.
+
+Thanks.
+
+
+<END>

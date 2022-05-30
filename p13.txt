@@ -1,0 +1,89 @@
+
+
+   ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл
+   л                                                                         л
+   л                 ллллл лллл  ллллл ллллл ллллл ллллл ллллл               л
+   л                 л     л  л  л     л   л   л     л   л                   л
+   л                 л     ллллл лллл  л   л   л     л   ллллл               л
+   л                 л     л   л л     л   л   л     л       л               л
+   л                 л     л   л л     л   л   л     л       л               л
+   л                 ллллл л   л ллллл ллллл ллллл   л   ллллл               л
+   л                                                                         л
+   ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл
+
+
+
+                  THE GAME SCENE CHARTS WERE PUT TOGETHER BY:
+
+
+
+All articles and statistics were written by the Game Scene Charts Staff and
+are all edited by The Game Scene Charts Editor who will remain anonymous.
+The charts are compiled, packed and released by The Game Scene Charts Editor.
+
+
+                          TOOLS AND UTILITIES CREDITS:
+
+
+The associated tools for editing and formatting the aritcles were written by
+Widowmaker of Electric Druggies (This group is now no longer active anymore).
+
+The chart engine was designed and created by Widowmaker, this includes some
+of the graphics and layout. 
+
+Thanks must also go to Rbz/Codigos for his useful web tutorial on creating
+spectrum bars. Some file conversion programs by Rbz are also used in every
+issue so thanks for making them available!
+
+If you can provide a better looking skin, please get in touch with us, we 
+would like to hear from you!!!!!
+
+
+                                 SKINS CREDITS:
+
+
+The Grunge skin is heavily inspired by World Of Warcraft, some graphics
+were adapted from various web sites, they were cut and pasted together by
+Widowmaker.
+
+The Carbon skin is by N.A.T.O Of The Anti Nowhere League, many thanks to
+him for his artwork, we appreciate it!
+
+
+                                 MUSIC CREDITS:
+
+
+The main music playback routine uses Minifmod. 
+
+The replay routine in the intro is by Stormbringer of Alcatraz, we thank him
+for making this nice tool available to everyone. The music is of course by 
+Rob Hubbard, taken from various C64 games.
+
+
+We also want to thank the musicians whose songs are in this issue. You can
+read about them in the scroller and also on thier own page, we feel that the 
+tunes deserve a page of thier own and we want to thank the songmakers for
+these songs which mean a lot to us, we hope nobody is offended by us 
+including them in this production.
+
+
+                                  OTHER STUFF:
+
+
+It needs to be emphasised that the creator of the program, the tools and libs
+used to create this chart have no other connection with it at all, the charts
+are actually compiled for you by a dedicated team of people.
+
+If you can contribute an interview, article, skin or song for the charts then
+we would really love to hear from you so please get in touch!
+
+
+Also if you have any letters to the editor, get in touch with him in the
+usual channels or on the sites. We will respect your anonymity and answer the
+things you ask in our letters page each month.
+
+
+Please do enjoy reading the charts, thank you!
+
+
+<END>

@@ -1,0 +1,21 @@
+erase i1.txt
+erase i2.txt
+erase i3.txt
+erase i4.txt
+erase i5.txt
+erase i6.txt
+erase i7.txt
+erase i8.txt
+erase i9.txt
+erase i10.txt
+erase i11.txt
+erase i12.txt
+erase i13.txt
+erase i14.txt
+erase i15.txt
+erase i16.txt
+erase i17.txt
+erase i18.txt
+erase i19.txt
+erase i20.txt
+fileconverter.exe

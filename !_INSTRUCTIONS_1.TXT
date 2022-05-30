@@ -1,0 +1,85 @@
+Hi bro.
+
+First thing that you will want to do is to create your articles.
+You have 20 pages, all these pages need to exist, even if some are
+empty (such as articles).
+
+To create the pages you should use notepad and save them as pure text.
+
+Block ascii art still works fine.
+Please do not have TABS, they will crash the mag.
+Also you should not have double quotes " as these will also crash it.
+You should search and replace those characters with something else.
+
+Pages are a maximum of 80 characters wide and 2,000 lines tall.
+
+You must end each page with the following;
+
+<END>
+
+It must be on the left of the screen and in capital letters.
+This is very important as the mag will look for this code.
+
+Colour codes like;
+
+<RED> <GREEN> etc
+
+and Page breaks like;
+
+<H1> <H2> etc
+
+Do not work any more. All text formatting is done within the text formatter.
+Please see !_INSTRUCTIONS_2.TXT To learn how to use it.
+
+Here are the pages and what they need to contain.
+
+ p1.txt - Monthly Chart
+ p2.txt - Monthly Overview
+ p3.txt - Group Of The Month
+ p4.txt - Group Release Stats
+ p5.txt - Yearly Stats
+ p6.txt - Yearly Overview
+ p7.txt - Group Of The Year
+ p8.txt - Alltime Stats
+ p9.txt - Alltime Overview
+p10.txt - Help                 (Chart usage instructions)
+p11.txt - Editorial            (Your introduction)  
+p12.txt - Rules                (The Chart Rules)
+p13.txt - Credits              (Credits)
+p14.txt - Feedback             (Letters to the editor if you will ;-) )
+p15.txt - Music                (Your comments on this issues tunes)
+p16.txt - Article 1            (General article / interview)
+p17.txt - Article 2            (General article / interview)
+p18.txt - Article 3            (General article / interview)
+p19.txt - Article 4            (General article / interview)
+p20.txt - Article 5            (General article / interview)
+
+These are broken down into the correct categories in the mag so don't worry
+about the order.
+
+Even if you don't have an article, the page should exist. You can switch it
+off in the configuration. See !_INSTRUCTIONS_3.TXT
+
+
+Once you have written the 20 pages, just click on the file:
+
+convert_pages.bat
+
+This will overwrite any old pages you might have formatted!!
+If you wish to preserve any of your old pages (like help for example)
+copy the corresponding i file, so for help it is;
+
+p10.txt == i10.txt
+
+copy that somewhere safe, run the batch file and then replace the new with the
+old one. This will preserve any text formatting you did to it and is a way
+of saving your pages.
+
+If some pages get corrupted, use the 
+
+kill_converted_pages.bat
+
+Batch file to remove all the iXX.txt files.
+
+Pretty straight forward really.
+So please write the pages and I'll see you in the next help file!
