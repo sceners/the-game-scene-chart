@@ -66,3 +66,267 @@ Writing this application was a blast and I hope that someone finds something use
 Fuck it feels wierd to let this go after all this time.. 4 years and 4 months!
 
 ---
+
+#### Instructions 1
+```
+Hi bro.
+
+First thing that you will want to do is to create your articles.
+You have 20 pages, all these pages need to exist, even if some are
+empty (such as articles).
+
+To create the pages you should use notepad and save them as pure text.
+
+Block ascii art still works fine.
+Please do not have TABS, they will crash the mag.
+Also you should not have double quotes " as these will also crash it.
+You should search and replace those characters with something else.
+
+Pages are a maximum of 80 characters wide and 2,000 lines tall.
+
+You must end each page with the following;
+
+<END>
+
+It must be on the left of the screen and in capital letters.
+This is very important as the mag will look for this code.
+
+Colour codes like;
+
+<RED> <GREEN> etc
+
+and Page breaks like;
+
+<H1> <H2> etc
+
+Do not work any more. All text formatting is done within the text formatter.
+Please see !_INSTRUCTIONS_2.TXT To learn how to use it.
+
+Here are the pages and what they need to contain.
+
+ p1.txt - Monthly Chart
+ p2.txt - Monthly Overview
+ p3.txt - Group Of The Month
+ p4.txt - Group Release Stats
+ p5.txt - Yearly Stats
+ p6.txt - Yearly Overview
+ p7.txt - Group Of The Year
+ p8.txt - Alltime Stats
+ p9.txt - Alltime Overview
+p10.txt - Help                 (Chart usage instructions)
+p11.txt - Editorial            (Your introduction)  
+p12.txt - Rules                (The Chart Rules)
+p13.txt - Credits              (Credits)
+p14.txt - Feedback             (Letters to the editor if you will ;-) )
+p15.txt - Music                (Your comments on this issues tunes)
+p16.txt - Article 1            (General article / interview)
+p17.txt - Article 2            (General article / interview)
+p18.txt - Article 3            (General article / interview)
+p19.txt - Article 4            (General article / interview)
+p20.txt - Article 5            (General article / interview)
+
+These are broken down into the correct categories in the mag so don't worry
+about the order.
+
+Even if you don't have an article, the page should exist. You can switch it
+off in the configuration. See !_INSTRUCTIONS_3.TXT
+
+
+Once you have written the 20 pages, just click on the file:
+
+convert_pages.bat
+
+This will overwrite any old pages you might have formatted!!
+If you wish to preserve any of your old pages (like help for example)
+copy the corresponding i file, so for help it is;
+
+p10.txt == i10.txt
+
+copy that somewhere safe, run the batch file and then replace the new with the
+old one. This will preserve any text formatting you did to it and is a way
+of saving your pages.
+
+If some pages get corrupted, use the 
+
+kill_converted_pages.bat
+
+Batch file to remove all the iXX.txt files.
+
+Pretty straight forward really.
+So please write the pages and I'll see you in the next help file!
+```
+
+#### Instructions 2
+```
+So you made it to step 2 of the process.
+
+Good!
+
+This is where most of my work has been put in and I believe that you will find
+it a lot easier to colour your articles now bro.
+
+You should have already made your articles in notepad, the p1.txt , p2.txt etc.
+The formatter needs something called "i files" to work.
+
+You will have already generated them by clicking on :
+
+convert_pages.bat
+
+after this you will see 20 files that look like;
+
+i1.txt
+i2.txt
+
+etc..
+
+These are basically your pages which have been converted into a format that the
+new chart engine can understand.
+
+Remember the old codes?
+
+<RED> <GREEN> <H1> <H2> Etc...
+
+Well they don't exist any more. All text formatting is done by mouse from now on.
+The formatter creates several layers that contain a map of each page.
+One contains dividers, one contains colours, one contains font types and one contains
+the actual text.
+
+So you have the converted files, just double click on:
+
+format_pages.bat
+
+And be patient, this code to some extent is actually self-generating so you need to
+wait while it builds and compiles its-self. Yeah I know it's a head fuck, this is one
+reason why it has taken me so long, it was really difficult code. Maybe the most complex
+thing I have ever written.
+
+When it has built it's self you will see a nice mouse controlled menu.
+
+Everything is controlled by mouse and is fairly self-explanitory. I will explain the
+menu anyway as it has some really cool things!
+
+-------------------------
+**     THE TOP PART    **
+-------------------------
+
+Left click to select things.
+
+QUIT + SAVE!  - Does what it says.
+
+On the left is a box showing you some status information like;
+
+The current Colour
+The current Page divider
+The current Font
+The current Mode
+The current Page.
+
+This is for quick info so you can see what you have selected atm.
+
+On the right of this you will see;
+
+-LTTR-  -  Letter mode (Allows individual formatting of characters).
+-WORD-  -  Word mode (Allows continuous words to be formatted at once).
+-LINE-  -  Line mode (Allows whole lines to be formatted at once).
+-LEFT-  -  Left mode (Everything to the left of the mouse is formatted at once.
+-RIGT-  -  Right mode (As above but to the right of the mouse).
+
+FONT 1  -  Select font 1
+FONT 2  -  Select Font 2
+
+------  - Page dividers (8 of them)
+
+Colour bands, click on the colour to choose it.
+
+<- PREV PAGE  - Go back a page.
+NEXT PAGE ->  - Go forward a page.
+
+
+Pretty simple eh?
+
+One thing to note, if you change pages it will mean that you accept the word layout
+this applies if you used the justify function. You wont be able to undo when you
+go back so only change pages when you are happy with the layout.
+
+----------------------------
+**     THE BOTTOM PART    **
+----------------------------
+
+
+BK>
+BK>
+...
+
+Left Click on any of these to insert the current page divider at that point.
+Right click to remove the divider.
+
+<JY
+<JY
+...
+
+Left click to auto justify
+Right click to revert back to how the page looked when you entered it.
+
+When you move the mouse into the text area the border will light up.
+Also you'll see a flashing hollow box, the size of the box depends on the
+text mode, by left clicking, all characters in the box are formatted
+with the current selections.
+
+If you right click anywhere in the text window, those attributes are grabbed
+to allow fast selection of colours / page dividers.
+
+-----------------------------------------------------------------------------------
+
+Saving your changes.
+--------------------
+
+When you leave the formatter, your changes will be saved so you dont have to
+do the whole mag in one go.
+
+If you convert the files again though, be careful because everything will be overwritten.
+If you want to preserve formatted pages for future issues, after you have coloured them
+you should copy them and store them somewhere safe.
+
+you can just replace the i file with the preserved one just before you compile the
+final version of the mag.
+
+In all this is a lot more complicated than the last one but I feel it's easier to use
+and will make a huge difference to the presentation of the mag.
+
+```
+  
+#### Instructions 3
+```
+And now you are ready to make the final executable version of the charts, this is simple too.
+
+
+You have your chosen music, please rename them to;
+
+music1.xm
+music2.xm
+music3.xm
+music4.xm
+
+and put them inside this directory, they will be automatically included.
+
+The mag only plays tracker songs, I will not be changing this to play sids right now to save you
+hassle. The other format I am considering is Farbrausch v2, they will come in a future
+version.
+
+You MUST have 20 valid include files so if you have not edited and converted your pages yet then
+don't try and compile it, it won't work ;-)
+
+You will want to open "configuration.txt" now.
+
+Change the issue number, type some scroll about the songs and select which pages are active
+inside the mag and the title of the pages in the menu with this file.
+
+When you are done, save the file and double click "COMPILE-CHART.bat"
+
+And that will be it, job done. After some time the mag will compile its self into a single exe :)
+Please be aware that it may take several minutes to compile!
+
+
+I look forward to seeing it used bro.
+I worked like crazy to get it all finished and simple for you to use.
+```
